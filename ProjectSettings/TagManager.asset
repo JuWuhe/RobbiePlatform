@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Basckgournd
+    uniqueID: 3492976187
+    locked: 0
+  - name: Platforms
+    uniqueID: 1167614395
+    locked: 0
+  - name: Player
+    uniqueID: 779233215
+    locked: 0
+  - name: Foreground
+    uniqueID: 2684210327
+    locked: 0
